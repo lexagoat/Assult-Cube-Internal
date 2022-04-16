@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: çözümlenmemiş dış sembol _main
+E:\Assult Cube Internal\Assult Cube Internal\Release\Assult Cube Internal.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
